@@ -1,0 +1,3703 @@
+{
+    "Abyei_en": {
+        "ar": 153,
+        "en": 333
+    },
+    "Heglig_en": {
+        "ar": 156,
+        "en": 307
+    },
+    "Kafia_Kingi_en": {
+        "ar": 148,
+        "en": 304
+    },
+    "Chagos_Archipelago_en": {
+        "mfe": 0,
+        "fr": 433,
+        "en": 676
+    },
+    "Ilemi_Triangle_en": {
+        "sw": 200,
+        "en": 358
+    },
+    "KaNgwane_en": {
+        "en": 237
+    },
+    "Ingwavuma_en": {
+        "en": 232
+    },
+    "Logoba_en": {
+        "sw": 97,
+        "en": 320
+    },
+    "Moyo_District_en": {
+        "sw": 101,
+        "en": 328
+    },
+    "Chiengi_en": {
+        "sw": 67,
+        "en": 121
+    },
+    "Lunchinda-Pweto_Province_en": {
+        "sw": 67,
+        "en": 178
+    },
+    "Lunkinda_River_en": {
+        "sw": 67,
+        "en": 109
+    },
+    "Pweto_en": {
+        "sw": 67,
+        "en": 124
+    },
+    "Mbamba_Bay_en": {
+        "sw": 133,
+        "en": 263
+    },
+    "Lake_Nyasa_en": {
+        "sw": 144,
+        "en": 258
+    },
+    "Okpara_River_en": {
+        "fr": 439,
+        "en": 252
+    },
+    "Sindabezi_Island_en": {
+        "sn": 26,
+        "en": 263
+    },
+    "Bajo_Nuevo_Bank_en": {
+        "es": 706,
+        "en": 642
+    },
+    "Navassa_Island_en": {
+        "ht": 87,
+        "en": 413
+    },
+    "Sapodilla_Cayes_en": {
+        "es": 815,
+        "en": 477
+    },
+    "Serranilla_Bank_en": {
+        "es": 883,
+        "en": 627
+    },
+    "Guayana_Esequiba_en": {
+        "es": 361,
+        "en": 370
+    },
+    "Essequibo_River_en": {
+        "es": 363,
+        "en": 329
+    },
+    "Ankoko_Island/Isla_de_Anacoco_en": {
+        "es": 373,
+        "en": 311
+    },
+    "Falkland_Islands_en": {
+        "es": 302,
+        "en": 408
+    },
+    "South_Georgia_and_the_South_Sandwich_Islands_en": {
+        "es": 305,
+        "en": 441
+    },
+    "Tigri_Area_en": {
+        "nl": 145,
+        "en": 239
+    },
+    "Courantyne_River_en": {
+        "nl": 151,
+        "en": 238
+    },
+    "Ashmore_and_Cartier_Islands_en": {
+        "id": 279,
+        "en": 246
+    },
+    "Pedra_Branca_en": {
+        "ms": 217,
+        "en": 287
+    },
+    "Singapore_Strait_en": {
+        "ms": 145,
+        "en": 219
+    },
+    "Point_20_en": {
+        "ms": 189,
+        "en": 255
+    },
+    "Gibraltar_en": {
+        "es": 458,
+        "en": 543
+    },
+    "Rockall_en": {
+        "da": 383,
+        "is": 198,
+        "en": 725
+    },
+    "Matthew_Island_and_Hunter_Island_en": {
+        "fr": 754,
+        "en": 483
+    },
+    "Minerva_Reefs_en": {
+        "to": 0,
+        "en": 256
+    },
+    "Swains_Island_en": {
+        "en": 276
+    },
+    "Wake_Island_en": {
+        "en": 362
+    },
+    "Banc_du_Geyser_en": {
+        "ar": 269,
+        "fr": 645,
+        "mg": 278,
+        "en": 456
+    },
+    "Bassas_da_India_en": {
+        "fr": 556,
+        "mg": 207,
+        "en": 368
+    },
+    "Europa_Island_en": {
+        "fr": 608,
+        "mg": 207,
+        "en": 369
+    },
+    "Juan_de_Nova_Island_en": {
+        "fr": 570,
+        "mg": 207,
+        "en": 395
+    },
+    "Ceuta_en": {
+        "ar": 363,
+        "es": 414,
+        "en": 492
+    },
+    "Melilla_en": {
+        "ar": 338,
+        "es": 439,
+        "en": 493
+    },
+    "plazas_de_soberan\u00eda_en": {
+        "ar": 329,
+        "es": 336,
+        "en": 426
+    },
+    "Doumeira_Mountain_en": {
+        "so": 28,
+        "ti": 7,
+        "en": 263
+    },
+    "Ras_Doumeira_en": {
+        "so": 28,
+        "ti": 7,
+        "en": 265
+    },
+    "Doumeira_Island_en": {
+        "so": 28,
+        "ti": 7,
+        "en": 267
+    },
+    "Glorioso_Islands_en": {
+        "ar": 270,
+        "fr": 659,
+        "mg": 281,
+        "en": 457
+    },
+    "Hala'ib_Triangle_en": {
+        "ar": 307,
+        "en": 407
+    },
+    "Koalou_en": {
+        "fr": 351,
+        "en": 267
+    },
+    "Kp\u00e9aba_en": {
+        "fr": 406,
+        "en": 184
+    },
+    "Sipilou_en": {
+        "fr": 408,
+        "en": 188
+    },
+    "Mayotte_en": {
+        "ar": 205,
+        "fr": 672,
+        "en": 401
+    },
+    "Mba\u00f1ie_Island_en": {
+        "fr": 206,
+        "es": 303,
+        "en": 194
+    },
+    "Cocotiers_en": {
+        "fr": 206,
+        "es": 303,
+        "en": 194
+    },
+    "Congas_Island_en": {
+        "fr": 206,
+        "es": 303,
+        "en": 194
+    },
+    "Migingo_Island_en": {
+        "sw": 182,
+        "en": 372
+    },
+    "Lolwe_en": {
+        "sw": 163,
+        "en": 363
+    },
+    "Oyasi_en": {
+        "sw": 163,
+        "en": 357
+    },
+    "Remba_en": {
+        "sw": 163,
+        "en": 357
+    },
+    "Ringiti_en": {
+        "sw": 163,
+        "en": 357
+    },
+    "Sigulu_en": {
+        "sw": 163,
+        "en": 357
+    },
+    "Lake_Victoria_en": {
+        "sw": 176,
+        "en": 409
+    },
+    "Congo_River_en": {
+        "fr": 334,
+        "sw": 87,
+        "en": 94
+    },
+    "Ntem_River_en": {
+        "fr": 209,
+        "es": 308,
+        "en": 228
+    },
+    "Rukwanzi_Island_en": {
+        "sw": 77,
+        "en": 177
+    },
+    "Semliki_River_en": {
+        "sw": 82,
+        "en": 182
+    },
+    "Socotra_Archipelago_en": {
+        "ar": 162,
+        "so": 101,
+        "en": 409
+    },
+    "Tromelin_Island_en": {
+        "mfe": 0,
+        "fr": 451,
+        "en": 437
+    },
+    "Wadi_Halfa_Salient_en": {
+        "ar": 306,
+        "en": 390
+    },
+    "Oued_Tourndo_en": {
+        "ar": 307,
+        "en": 316
+    },
+    "Conejo_Island_en": {
+        "es": 571,
+        "en": 297
+    },
+    "Arroyo_de_la_Invernada_en": {
+        "pt": 280,
+        "es": 543,
+        "en": 319
+    },
+    "Rinc\u00f3n_de_Artigas_en": {
+        "pt": 280,
+        "es": 543,
+        "en": 319
+    },
+    "Vila_Albornoz_en": {
+        "pt": 277,
+        "es": 538,
+        "en": 313
+    },
+    "French_Guiana_en": {
+        "nl": 194,
+        "fr": 556,
+        "en": 475
+    },
+    "Marouini_River_en": {
+        "nl": 169,
+        "fr": 378,
+        "en": 376
+    },
+    "Isla_Brasilera/Ilha_Brasileira_en": {
+        "pt": 292,
+        "es": 561,
+        "en": 316
+    },
+    "Isla_Su\u00e1rez/Ilha_de_Guajar\u00e1-mirim_en": {
+        "pt": 262,
+        "es": 426,
+        "en": 352
+    },
+    "Southern_Patagonian_Ice_Field_en": {
+        "es": 405,
+        "en": 344
+    },
+    "Aarsal_en": {
+        "ar": 167,
+        "en": 330
+    },
+    "Deir_El_Aachayer_en": {
+        "ar": 159,
+        "en": 337
+    },
+    "Kfar_Qouq_en": {
+        "ar": 159,
+        "en": 335
+    },
+    "Mazraat_Deir_al-Ashayer_en": {
+        "ar": 159,
+        "en": 333
+    },
+    "Qaa_en": {
+        "ar": 162,
+        "en": 341
+    },
+    "Qasr_en": {
+        "ar": 159,
+        "en": 332
+    },
+    "Tuffah_en": {
+        "ar": 161,
+        "en": 335
+    },
+    "Shatt_al-Arab_en": {
+        "ar": 434,
+        "fa": 342,
+        "en": 467
+    },
+    "Abu_Musa_en": {
+        "ar": 238,
+        "fa": 311,
+        "en": 409
+    },
+    "Greater_and_Lesser_Tunbs_en": {
+        "ar": 191,
+        "fa": 261,
+        "en": 409
+    },
+    "Bukit_Jeli_en": {
+        "th": 226,
+        "ms": 168,
+        "en": 305
+    },
+    "Azad_Kashmir_en": {
+        "ur": 129,
+        "hi": 142,
+        "en": 342
+    },
+    "Gilgit-Baltistan_en": {
+        "ur": 128,
+        "hi": 145,
+        "zht": 285,
+        "en": 367
+    },
+    "Jammu_and_Kashmir_en": {
+        "ur": 125,
+        "hi": 124,
+        "en": 335
+    },
+    "Ladakh_en": {
+        "ur": 124,
+        "hi": 151,
+        "en": 387
+    },
+    "Junagadh_and_Manavadar_en": {
+        "ur": 120,
+        "hi": 132,
+        "en": 301
+    },
+    "David_Gareja_monastery_complex_en": {
+        "az": 186,
+        "ka": 255,
+        "en": 318
+    },
+    "Doi_Lang_en": {
+        "th": 257,
+        "my": 230,
+        "en": 360
+    },
+    "Fasht_ad_Dibal_en": {
+        "ar": 253,
+        "en": 303
+    },
+    "Qit'at_Jaradah_en": {
+        "ar": 258,
+        "en": 304
+    },
+    "Fergana_Valley_en": {
+        "ky": 213,
+        "tg": 179,
+        "uz": 171,
+        "en": 469
+    },
+    "Isfara_Valley_en": {
+        "tg": 186,
+        "ky": 170,
+        "en": 251
+    },
+    "Ambalat_en": {
+        "id": 309,
+        "ms": 118,
+        "en": 215
+    },
+    "Golan_Heights_en": {
+        "ar": 191,
+        "iw": 335,
+        "en": 454
+    },
+    "Hatay_Province_en": {
+        "ar": 179,
+        "tr": 392,
+        "en": 427
+    },
+    "Shebaa_Farms_en": {
+        "ar": 214,
+        "iw": 245,
+        "en": 353
+    },
+    "Green_Line_en": {
+        "ar": 190,
+        "iw": 275,
+        "en": 244
+    },
+    "West_Bank_en": {
+        "ar": 210,
+        "iw": 296,
+        "en": 333
+    },
+    "East_Jerusalem_en": {
+        "ar": 182,
+        "iw": 277,
+        "en": 306
+    },
+    "Gaza_Strip_en": {
+        "ar": 252,
+        "iw": 297,
+        "en": 397
+    },
+    "Kalapani_en": {
+        "ne": 85,
+        "hi": 144,
+        "en": 237
+    },
+    "Susta_River_dispute_en": {
+        "ne": 71,
+        "hi": 144,
+        "en": 210
+    },
+    "Antudanda_en": {
+        "ne": 71,
+        "hi": 144,
+        "en": 206
+    },
+    "Artsvashen_en": {
+        "az": 182,
+        "hy": 460,
+        "en": 332
+    },
+    "Gegharkunik_province_en": {
+        "az": 181,
+        "hy": 463,
+        "en": 372
+    },
+    "Karki_en": {
+        "az": 176,
+        "hy": 466,
+        "en": 327
+    },
+    "Nakhichevan_Autonomous_Republic_en": {
+        "az": 356,
+        "hy": 463,
+        "en": 395
+    },
+    "Yukhari_Askipara_en": {
+        "az": 178,
+        "hy": 470,
+        "en": 324
+    },
+    "Barkhudarli_en": {
+        "az": 178,
+        "hy": 459,
+        "en": 318
+    },
+    "Qazakh_Rayon_en": {
+        "az": 264,
+        "hy": 458,
+        "en": 332
+    },
+    "Yaradullu_en": {
+        "az": 170,
+        "hy": 452,
+        "en": 320
+    },
+    "Khuriya_Muriya_Islands_en": {
+        "ar": 284,
+        "en": 369
+    },
+    "Korean_Peninsula_en": {
+        "ko": 490,
+        "en": 320
+    },
+    "South_Kuril/Chishima_Islands_en": {
+        "ja": 274,
+        "ru": 575,
+        "en": 289
+    },
+    "Kuril/Chishima_Islands_en": {
+        "ja": 274,
+        "ru": 575,
+        "en": 289
+    },
+    "Sakhalin_en": {
+        "ja": 255,
+        "ru": 602,
+        "en": 326
+    },
+    "Dokdo/Takeshima_en": {
+        "ja": 638,
+        "ko": 627,
+        "en": 443
+    },
+    "Mekong_river_en": {
+        "th": 254,
+        "en": 368,
+        "lo": 122
+    },
+    "Naf_River_en": {
+        "bn": 139,
+        "my": 115,
+        "en": 329
+    },
+    "Noktundo_en": {
+        "ru": 527,
+        "ko": 299,
+        "en": 337
+    },
+    "O'Tangav_en": {
+        "en": 286,
+        "km": 180,
+        "lo": 91
+    },
+    "Stung_Treng_Province_en": {
+        "en": 303,
+        "km": 186,
+        "lo": 91
+    },
+    "Preah_Vihear_Temple_en": {
+        "th": 298,
+        "km": 266,
+        "en": 412
+    },
+    "Khao_Phra_Wihan_en": {
+        "th": 259,
+        "km": 232,
+        "en": 385
+    },
+    "Qaruh_en": {
+        "ar": 394,
+        "en": 373
+    },
+    "Umm_al_Maradim_en": {
+        "ar": 393,
+        "en": 377
+    },
+    "Sabah_en": {
+        "tl": 119,
+        "ms": 133,
+        "en": 294
+    },
+    "North_Borneo_en": {
+        "tl": 114,
+        "ms": 98,
+        "en": 235
+    },
+    "Siachen_Glacier_en": {
+        "ur": 136,
+        "hi": 147,
+        "zht": 265,
+        "en": 308
+    },
+    "Saltoro_Ridge_en": {
+        "ur": 121,
+        "hi": 125,
+        "en": 300
+    },
+    "Sir_Creek_en": {
+        "ur": 118,
+        "hi": 126,
+        "en": 311
+    },
+    "Three_Pagodas_Pass_en": {
+        "th": 246,
+        "my": 230,
+        "en": 366
+    },
+    "Ukatnyy_en": {
+        "ru": 696,
+        "en": 370
+    },
+    "Zhestky_en": {
+        "ru": 696,
+        "en": 370
+    },
+    "Malyy_Zhemchuzhnyy_en": {
+        "ru": 696,
+        "en": 370
+    },
+    "Ungar-Too_en": {
+        "ky": 194,
+        "uz": 128,
+        "en": 300
+    },
+    "Vozrozhdeniya_Island_en": {
+        "ru": 465,
+        "uz": 123,
+        "en": 379
+    },
+    "Crimea_en": {
+        "ru": 797,
+        "uk": 540,
+        "en": 426
+    },
+    "Sevastopol_en": {
+        "ru": 924,
+        "uk": 582,
+        "en": 395
+    },
+    "Donetsk_Oblast_en": {
+        "ru": 792,
+        "uk": 621,
+        "en": 363
+    },
+    "Kherson_Oblast_en": {
+        "ru": 796,
+        "uk": 503,
+        "en": 354
+    },
+    "Luhansk_Oblast_en": {
+        "ru": 784,
+        "uk": 580,
+        "en": 383
+    },
+    "Zaporizhzhia_Oblast_en": {
+        "ru": 826,
+        "uk": 694,
+        "en": 366
+    },
+    "Kinburn_Peninsula_en": {
+        "ru": 749,
+        "uk": 505,
+        "en": 336
+    },
+    "Mykolaiv_Oblast_en": {
+        "ru": 793,
+        "uk": 525,
+        "en": 358
+    },
+    "Snihurivka_en": {
+        "ru": 759,
+        "uk": 511,
+        "en": 338
+    },
+    "Imia/Kardak_en": {
+        "tr": 202,
+        "el": 270,
+        "en": 485
+    },
+    "Mont_Blanc_summit_dispute_en": {
+        "fr": 528,
+        "it": 581,
+        "en": 516
+    },
+    "Olivenza_en": {
+        "pt": 368,
+        "es": 402,
+        "en": 581
+    },
+    "Vila_Real_en": {
+        "pt": 372,
+        "es": 369,
+        "en": 576
+    },
+    "T\u00e1liga_en": {
+        "pt": 303,
+        "es": 363,
+        "en": 544
+    },
+    "Island_of_\u0160arengrad_en": {
+        "hr": 262,
+        "sr": 366,
+        "en": 340
+    },
+    "Island_of_Vukovar_en": {
+        "hr": 259,
+        "sr": 370,
+        "en": 338
+    },
+    "Sveta_Gera_en": {
+        "hr": 187,
+        "sl": 174,
+        "en": 331
+    },
+    "Drina_river_en": {
+        "bs": 245,
+        "sr": 442,
+        "en": 372
+    },
+    "Prevlaka_en": {
+        "hr": 263,
+        "sr": 221,
+        "en": 263
+    },
+    "Sastavci_en": {
+        "bs": 227,
+        "sr": 408,
+        "en": 375
+    },
+    "Dragonja_River_en": {
+        "hr": 188,
+        "sl": 176,
+        "en": 335
+    },
+    "Abagaitu_Islet_en": {
+        "zht": 321,
+        "ru": 772,
+        "zhs": 321,
+        "en": 158
+    },
+    "Depsang_Plains_en": {
+        "hi": 185,
+        "zhs": 336,
+        "zht": 336,
+        "en": 140
+    },
+    "Aksai_Chin_en": {
+        "hi": 185,
+        "zhs": 341,
+        "zht": 341,
+        "en": 143
+    },
+    "Arunachal_Pradesh_en": {
+        "hi": 211,
+        "zhs": 358,
+        "zht": 358,
+        "en": 183
+    },
+    "B\u1ea1ch_Long_V\u0129_Island_en": {
+        "vi": 219,
+        "zht": 214,
+        "en": 127
+    },
+    "Baekdu_Mountain_en": {
+        "zhs": 565,
+        "ko": 731,
+        "zht": 565,
+        "en": 363
+    },
+    "Beyul_Khenpajong_en": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Menchuma_Valley_en": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 125
+    },
+    "Chagdzom_en": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Bhutanese_exclaves_en": {
+        "dz": 0,
+        "zhs": 295,
+        "zht": 295,
+        "en": 191
+    },
+    "Tibet_en": {
+        "dz": 0,
+        "zhs": 305,
+        "zht": 305,
+        "en": 222
+    },
+    "Cherkip_Gompa_en": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 125
+    },
+    "Dungmar_en": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 125
+    },
+    "Gesur_en": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Gezon_en": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Itse_Gompa_en": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 125
+    },
+    "Khochar_en": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 125
+    },
+    "Nyanri_en": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Ringung_en": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Sanmar_en": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Darchen_en": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 134
+    },
+    "Doklam_en": {
+        "zht": 287,
+        "dz": 0,
+        "zhs": 287,
+        "en": 183
+    },
+    "Zuthulphuk_en": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 125
+    },
+    "Dadivank_en": {
+        "az": 222,
+        "hy": 482,
+        "en": 332
+    },
+    "Demchok_sector_/_Parigas_region_en": {
+        "zht": 338,
+        "hi": 177,
+        "zhs": 338,
+        "en": 130
+    },
+    "Chumar_en": {
+        "hi": 179,
+        "zhs": 334,
+        "zht": 334,
+        "en": 124
+    },
+    "Gue_en": {
+        "hi": 177,
+        "zhs": 333,
+        "zht": 333,
+        "en": 108
+    },
+    "Kaurik_en": {
+        "hi": 177,
+        "zhs": 333,
+        "zht": 333,
+        "en": 107
+    },
+    "Shipki_La_en": {
+        "hi": 182,
+        "zhs": 338,
+        "zht": 338,
+        "en": 111
+    },
+    "Tashigang_en": {
+        "hi": 181,
+        "zhs": 333,
+        "zht": 333,
+        "en": 108
+    },
+    "Barahoti_en": {
+        "hi": 177,
+        "zhs": 333,
+        "zht": 333,
+        "en": 149
+    },
+    "Lapthal_en": {
+        "zht": 333,
+        "hi": 177,
+        "zhs": 333,
+        "en": 105
+    },
+    "Jadhang_en": {
+        "hi": 180,
+        "zhs": 335,
+        "zht": 335,
+        "en": 110
+    },
+    "Nelang_en": {
+        "hi": 180,
+        "zhs": 335,
+        "zht": 335,
+        "en": 117
+    },
+    "Pulam_Sumda_en": {
+        "zht": 335,
+        "hi": 180,
+        "zhs": 335,
+        "en": 109
+    },
+    "Sang_en": {
+        "hi": 180,
+        "zhs": 335,
+        "zht": 335,
+        "en": 110
+    },
+    "James_Shoal_en": {
+        "zhs": 370,
+        "zht": 370,
+        "ms": 146,
+        "en": 106
+    },
+    "Macclesfield_Bank_en": {
+        "zht": 304,
+        "zhs": 304,
+        "tl": 147,
+        "en": 133
+    },
+    "Mainland_China_en": {
+        "zhs": 254,
+        "zht": 254,
+        "en": 22
+    },
+    "Hainan_en": {
+        "zht": 338,
+        "zhs": 338,
+        "en": 162
+    },
+    "Heixiazi_en": {
+        "ru": 785,
+        "zhs": 346,
+        "zht": 346,
+        "en": 167
+    },
+    "Bolshoy_Ussuriysky_Island_en": {
+        "ru": 785,
+        "zhs": 346,
+        "zht": 346,
+        "en": 167
+    },
+    "Hong_Kong_en": {
+        "zhs": 502,
+        "zht": 502,
+        "en": 90
+    },
+    "Jiangxinpo_en": {
+        "my": 137,
+        "zht": 216,
+        "en": 181
+    },
+    "Khan_Tengri_en": {
+        "zht": 288,
+        "zhs": 288,
+        "ky": 223,
+        "en": 159
+    },
+    "Boz-Tik_en": {
+        "zht": 285,
+        "zhs": 285,
+        "ky": 219,
+        "en": 144
+    },
+    "Bedel_pass_en": {
+        "zht": 291,
+        "zhs": 291,
+        "ky": 222,
+        "en": 144
+    },
+    "Uzongu-Kuush_en": {
+        "zhs": 285,
+        "zht": 285,
+        "ky": 219,
+        "en": 144
+    },
+    "Erkeshtam_en": {
+        "zhs": 295,
+        "zht": 295,
+        "ky": 219,
+        "en": 161
+    },
+    "Kosovo_en": {
+        "sq": 155,
+        "sr": 320,
+        "en": 343
+    },
+    "Kula_Kangri_en": {
+        "dz": 0,
+        "zhs": 284,
+        "zht": 284,
+        "en": 130
+    },
+    "Haa_District_en": {
+        "zht": 287,
+        "dz": 0,
+        "zhs": 287,
+        "en": 151
+    },
+    "Kutuzov_Island_en": {
+        "ru": 485,
+        "zht": 187,
+        "en": 154
+    },
+    "Lachin_corridor_en": {
+        "az": 184,
+        "hy": 461,
+        "en": 328
+    },
+    "Macau_en": {
+        "zhs": 374,
+        "zht": 374,
+        "en": 71
+    },
+    "Namwan_Assigned_Tract_en": {
+        "my": 137,
+        "zht": 197,
+        "en": 184
+    },
+    "Outer_Mongolia_en": {
+        "zht": 241,
+        "mn": 35,
+        "en": 140
+    },
+    "Pamir_Mountains_en": {
+        "tg": 178,
+        "zhs": 296,
+        "zht": 296,
+        "en": 137
+    },
+    "Paracel_Islands_en": {
+        "vi": 446,
+        "zhs": 339,
+        "zht": 339,
+        "en": 180
+    },
+    "Parangcho_en": {
+        "zhs": 370,
+        "ko": 439,
+        "zht": 370,
+        "en": 188
+    },
+    "Rasu_en": {
+        "ne": 67,
+        "zht": 157,
+        "en": 107
+    },
+    "Kimathanka_en": {
+        "ne": 70,
+        "zht": 157,
+        "en": 113
+    },
+    "Nara_Pass_en": {
+        "ne": 67,
+        "zht": 157,
+        "en": 107
+    },
+    "Tingribode_en": {
+        "ne": 67,
+        "zht": 157,
+        "en": 107
+    },
+    "Mount_Everest_en": {
+        "ne": 73,
+        "zht": 210,
+        "en": 308
+    },
+    "Scarborough_Shoal_en": {
+        "tl": 149,
+        "zhs": 311,
+        "zht": 311,
+        "en": 168
+    },
+    "Sakteng_Wildlife_Sanctuary_en": {
+        "zht": 284,
+        "dz": 0,
+        "zhs": 284,
+        "en": 134
+    },
+    "Senkaku_Islands_en": {
+        "ja": 394,
+        "zhs": 401,
+        "zht": 401,
+        "en": 160
+    },
+    "Shaksgam_Valley_en": {
+        "zht": 340,
+        "hi": 180,
+        "zhs": 340,
+        "en": 111
+    },
+    "Sixty-Four_Villages_East_of_the_River_en": {
+        "ru": 490,
+        "zht": 192,
+        "en": 161
+    },
+    "Spratly_Islands_en": {
+        "zhs": 548,
+        "en": 501,
+        "tl": 216,
+        "vi": 766,
+        "zht": 548,
+        "ms": 259
+    },
+    "Taiwan_en": {
+        "zht": 235,
+        "zhs": 235,
+        "en": 185
+    },
+    "Penghu_en": {
+        "zht": 296,
+        "zhs": 296,
+        "en": 53
+    },
+    "Kinmen_en": {
+        "zhs": 328,
+        "zht": 328,
+        "en": 75
+    },
+    "Matsu_en": {
+        "zhs": 276,
+        "zht": 276,
+        "en": 67
+    },
+    "Pratas_Island_en": {
+        "zht": 242,
+        "zhs": 242,
+        "en": 55
+    },
+    "Vereker_Banks_en": {
+        "zht": 235,
+        "zhs": 235,
+        "en": 1
+    },
+    "Trans-Karakoram_Tracts_en": {
+        "hi": 181,
+        "zhs": 336,
+        "zht": 336,
+        "en": 127
+    },
+    "Tannu_Uriankhai_en": {
+        "ru": 482,
+        "zht": 220,
+        "en": 178
+    },
+    "Tumen_River_en": {
+        "zhs": 544,
+        "ko": 697,
+        "zht": 544,
+        "en": 335
+    },
+    "Wakhan_Corridor_en": {
+        "zht": 188,
+        "fa": 240,
+        "en": 189
+    },
+    "Yalu_River_en": {
+        "zhs": 543,
+        "ko": 701,
+        "zht": 543,
+        "en": 342
+    },
+    "Abyei_ar": {
+        "ar": 153,
+        "en": 333
+    },
+    "Heglig_ar": {
+        "ar": 156,
+        "en": 307
+    },
+    "Kafia_Kingi_ar": {
+        "ar": 148,
+        "en": 304
+    },
+    "Banc_du_Geyser_ar": {
+        "ar": 269,
+        "fr": 645,
+        "mg": 278,
+        "en": 456
+    },
+    "Ceuta_ar": {
+        "ar": 363,
+        "es": 414,
+        "en": 492
+    },
+    "Melilla_ar": {
+        "ar": 338,
+        "es": 439,
+        "en": 493
+    },
+    "plazas_de_soberan\u00eda_ar": {
+        "ar": 329,
+        "es": 336,
+        "en": 426
+    },
+    "Glorioso_Islands_ar": {
+        "ar": 270,
+        "fr": 659,
+        "mg": 281,
+        "en": 457
+    },
+    "Hala'ib_Triangle_ar": {
+        "ar": 307,
+        "en": 407
+    },
+    "Mayotte_ar": {
+        "ar": 205,
+        "fr": 672,
+        "en": 401
+    },
+    "Socotra_Archipelago_ar": {
+        "ar": 162,
+        "so": 101,
+        "en": 409
+    },
+    "Wadi_Halfa_Salient_ar": {
+        "ar": 306,
+        "en": 390
+    },
+    "Oued_Tourndo_ar": {
+        "ar": 307,
+        "en": 316
+    },
+    "Aarsal_ar": {
+        "ar": 167,
+        "en": 330
+    },
+    "Deir_El_Aachayer_ar": {
+        "ar": 159,
+        "en": 337
+    },
+    "Kfar_Qouq_ar": {
+        "ar": 159,
+        "en": 335
+    },
+    "Mazraat_Deir_al-Ashayer_ar": {
+        "ar": 159,
+        "en": 333
+    },
+    "Qaa_ar": {
+        "ar": 162,
+        "en": 341
+    },
+    "Qasr_ar": {
+        "ar": 159,
+        "en": 332
+    },
+    "Tuffah_ar": {
+        "ar": 161,
+        "en": 335
+    },
+    "Shatt_al-Arab_ar": {
+        "ar": 434,
+        "fa": 342,
+        "en": 467
+    },
+    "Abu_Musa_ar": {
+        "ar": 238,
+        "fa": 311,
+        "en": 409
+    },
+    "Greater_and_Lesser_Tunbs_ar": {
+        "ar": 191,
+        "fa": 261,
+        "en": 409
+    },
+    "Fasht_ad_Dibal_ar": {
+        "ar": 253,
+        "en": 303
+    },
+    "Qit'at_Jaradah_ar": {
+        "ar": 258,
+        "en": 304
+    },
+    "Golan_Heights_ar": {
+        "ar": 191,
+        "iw": 335,
+        "en": 454
+    },
+    "Hatay_Province_ar": {
+        "ar": 179,
+        "tr": 392,
+        "en": 427
+    },
+    "Shebaa_Farms_ar": {
+        "ar": 214,
+        "iw": 245,
+        "en": 353
+    },
+    "Green_Line_ar": {
+        "ar": 190,
+        "iw": 275,
+        "en": 244
+    },
+    "West_Bank_ar": {
+        "ar": 210,
+        "iw": 296,
+        "en": 333
+    },
+    "East_Jerusalem_ar": {
+        "ar": 182,
+        "iw": 277,
+        "en": 306
+    },
+    "Gaza_Strip_ar": {
+        "ar": 252,
+        "iw": 297,
+        "en": 397
+    },
+    "Khuriya_Muriya_Islands_ar": {
+        "ar": 284,
+        "en": 369
+    },
+    "Qaruh_ar": {
+        "ar": 394,
+        "en": 373
+    },
+    "Umm_al_Maradim_ar": {
+        "ar": 393,
+        "en": 377
+    },
+    "Banc_du_Geyser_fr": {
+        "ar": 269,
+        "fr": 645,
+        "mg": 278,
+        "en": 456
+    },
+    "Bassas_da_India_fr": {
+        "fr": 556,
+        "mg": 207,
+        "en": 368
+    },
+    "Europa_Island_fr": {
+        "fr": 608,
+        "mg": 207,
+        "en": 369
+    },
+    "Juan_de_Nova_Island_fr": {
+        "fr": 570,
+        "mg": 207,
+        "en": 395
+    },
+    "Chagos_Archipelago_fr": {
+        "mfe": 0,
+        "fr": 433,
+        "en": 676
+    },
+    "Glorioso_Islands_fr": {
+        "ar": 270,
+        "fr": 659,
+        "mg": 281,
+        "en": 457
+    },
+    "Koalou_fr": {
+        "fr": 351,
+        "en": 267
+    },
+    "Kp\u00e9aba_fr": {
+        "fr": 406,
+        "en": 184
+    },
+    "Sipilou_fr": {
+        "fr": 408,
+        "en": 188
+    },
+    "Mayotte_fr": {
+        "ar": 205,
+        "fr": 672,
+        "en": 401
+    },
+    "Mba\u00f1ie_Island_fr": {
+        "fr": 206,
+        "es": 303,
+        "en": 194
+    },
+    "Cocotiers_fr": {
+        "fr": 206,
+        "es": 303,
+        "en": 194
+    },
+    "Congas_Island_fr": {
+        "fr": 206,
+        "es": 303,
+        "en": 194
+    },
+    "Congo_River_fr": {
+        "fr": 334,
+        "sw": 87,
+        "en": 94
+    },
+    "Ntem_River_fr": {
+        "fr": 209,
+        "es": 308,
+        "en": 228
+    },
+    "Okpara_River_fr": {
+        "fr": 439,
+        "en": 252
+    },
+    "Tromelin_Island_fr": {
+        "mfe": 0,
+        "fr": 451,
+        "en": 437
+    },
+    "French_Guiana_fr": {
+        "nl": 194,
+        "fr": 556,
+        "en": 475
+    },
+    "Marouini_River_fr": {
+        "nl": 169,
+        "fr": 378,
+        "en": 376
+    },
+    "Mont_Blanc_summit_dispute_fr": {
+        "fr": 528,
+        "it": 581,
+        "en": 516
+    },
+    "Matthew_Island_and_Hunter_Island_fr": {
+        "fr": 754,
+        "en": 483
+    },
+    "Banc_du_Geyser_mg": {
+        "ar": 269,
+        "fr": 645,
+        "mg": 278,
+        "en": 456
+    },
+    "Bassas_da_India_mg": {
+        "fr": 556,
+        "mg": 207,
+        "en": 368
+    },
+    "Europa_Island_mg": {
+        "fr": 608,
+        "mg": 207,
+        "en": 369
+    },
+    "Juan_de_Nova_Island_mg": {
+        "fr": 570,
+        "mg": 207,
+        "en": 395
+    },
+    "Glorioso_Islands_mg": {
+        "ar": 270,
+        "fr": 659,
+        "mg": 281,
+        "en": 457
+    },
+    "Ceuta_es": {
+        "ar": 363,
+        "es": 414,
+        "en": 492
+    },
+    "Melilla_es": {
+        "ar": 338,
+        "es": 439,
+        "en": 493
+    },
+    "plazas_de_soberan\u00eda_es": {
+        "ar": 329,
+        "es": 336,
+        "en": 426
+    },
+    "Mba\u00f1ie_Island_es": {
+        "fr": 206,
+        "es": 303,
+        "en": 194
+    },
+    "Cocotiers_es": {
+        "fr": 206,
+        "es": 303,
+        "en": 194
+    },
+    "Congas_Island_es": {
+        "fr": 206,
+        "es": 303,
+        "en": 194
+    },
+    "Ntem_River_es": {
+        "fr": 209,
+        "es": 308,
+        "en": 228
+    },
+    "Bajo_Nuevo_Bank_es": {
+        "es": 706,
+        "en": 642
+    },
+    "Conejo_Island_es": {
+        "es": 571,
+        "en": 297
+    },
+    "Sapodilla_Cayes_es": {
+        "es": 815,
+        "en": 477
+    },
+    "Serranilla_Bank_es": {
+        "es": 883,
+        "en": 627
+    },
+    "Guayana_Esequiba_es": {
+        "es": 361,
+        "en": 370
+    },
+    "Essequibo_River_es": {
+        "es": 363,
+        "en": 329
+    },
+    "Ankoko_Island/Isla_de_Anacoco_es": {
+        "es": 373,
+        "en": 311
+    },
+    "Arroyo_de_la_Invernada_es": {
+        "pt": 280,
+        "es": 543,
+        "en": 319
+    },
+    "Rinc\u00f3n_de_Artigas_es": {
+        "pt": 280,
+        "es": 543,
+        "en": 319
+    },
+    "Vila_Albornoz_es": {
+        "pt": 277,
+        "es": 538,
+        "en": 313
+    },
+    "Falkland_Islands_es": {
+        "es": 302,
+        "en": 408
+    },
+    "South_Georgia_and_the_South_Sandwich_Islands_es": {
+        "es": 305,
+        "en": 441
+    },
+    "Isla_Brasilera/Ilha_Brasileira_es": {
+        "pt": 292,
+        "es": 561,
+        "en": 316
+    },
+    "Isla_Su\u00e1rez/Ilha_de_Guajar\u00e1-mirim_es": {
+        "pt": 262,
+        "es": 426,
+        "en": 352
+    },
+    "Southern_Patagonian_Ice_Field_es": {
+        "es": 405,
+        "en": 344
+    },
+    "Gibraltar_es": {
+        "es": 458,
+        "en": 543
+    },
+    "Olivenza_es": {
+        "pt": 368,
+        "es": 402,
+        "en": 581
+    },
+    "Vila_Real_es": {
+        "pt": 372,
+        "es": 369,
+        "en": 576
+    },
+    "T\u00e1liga_es": {
+        "pt": 303,
+        "es": 363,
+        "en": 544
+    },
+    "Doumeira_Mountain_so": {
+        "so": 28,
+        "ti": 7,
+        "en": 263
+    },
+    "Ras_Doumeira_so": {
+        "so": 28,
+        "ti": 7,
+        "en": 265
+    },
+    "Doumeira_Island_so": {
+        "so": 28,
+        "ti": 7,
+        "en": 267
+    },
+    "Socotra_Archipelago_so": {
+        "ar": 162,
+        "so": 101,
+        "en": 409
+    },
+    "Doumeira_Mountain_ti": {
+        "so": 28,
+        "ti": 7,
+        "en": 263
+    },
+    "Ras_Doumeira_ti": {
+        "so": 28,
+        "ti": 7,
+        "en": 265
+    },
+    "Doumeira_Island_ti": {
+        "so": 28,
+        "ti": 7,
+        "en": 267
+    },
+    "Ilemi_Triangle_sw": {
+        "sw": 200,
+        "en": 358
+    },
+    "Logoba_sw": {
+        "sw": 97,
+        "en": 320
+    },
+    "Moyo_District_sw": {
+        "sw": 101,
+        "en": 328
+    },
+    "Chiengi_sw": {
+        "sw": 67,
+        "en": 121
+    },
+    "Lunchinda-Pweto_Province_sw": {
+        "sw": 67,
+        "en": 178
+    },
+    "Lunkinda_River_sw": {
+        "sw": 67,
+        "en": 109
+    },
+    "Pweto_sw": {
+        "sw": 67,
+        "en": 124
+    },
+    "Mbamba_Bay_sw": {
+        "sw": 133,
+        "en": 263
+    },
+    "Lake_Nyasa_sw": {
+        "sw": 144,
+        "en": 258
+    },
+    "Migingo_Island_sw": {
+        "sw": 182,
+        "en": 372
+    },
+    "Lolwe_sw": {
+        "sw": 163,
+        "en": 363
+    },
+    "Oyasi_sw": {
+        "sw": 163,
+        "en": 357
+    },
+    "Remba_sw": {
+        "sw": 163,
+        "en": 357
+    },
+    "Ringiti_sw": {
+        "sw": 163,
+        "en": 357
+    },
+    "Sigulu_sw": {
+        "sw": 163,
+        "en": 357
+    },
+    "Lake_Victoria_sw": {
+        "sw": 176,
+        "en": 409
+    },
+    "Congo_River_sw": {
+        "fr": 334,
+        "sw": 87,
+        "en": 94
+    },
+    "Rukwanzi_Island_sw": {
+        "sw": 77,
+        "en": 177
+    },
+    "Semliki_River_sw": {
+        "sw": 82,
+        "en": 182
+    },
+    "Sindabezi_Island_sn": {
+        "sn": 26,
+        "en": 263
+    },
+    "Navassa_Island_ht": {
+        "ht": 87,
+        "en": 413
+    },
+    "Arroyo_de_la_Invernada_pt": {
+        "pt": 280,
+        "es": 543,
+        "en": 319
+    },
+    "Rinc\u00f3n_de_Artigas_pt": {
+        "pt": 280,
+        "es": 543,
+        "en": 319
+    },
+    "Vila_Albornoz_pt": {
+        "pt": 277,
+        "es": 538,
+        "en": 313
+    },
+    "Isla_Brasilera/Ilha_Brasileira_pt": {
+        "pt": 292,
+        "es": 561,
+        "en": 316
+    },
+    "Isla_Su\u00e1rez/Ilha_de_Guajar\u00e1-mirim_pt": {
+        "pt": 262,
+        "es": 426,
+        "en": 352
+    },
+    "Olivenza_pt": {
+        "pt": 368,
+        "es": 402,
+        "en": 581
+    },
+    "Vila_Real_pt": {
+        "pt": 372,
+        "es": 369,
+        "en": 576
+    },
+    "T\u00e1liga_pt": {
+        "pt": 303,
+        "es": 363,
+        "en": 544
+    },
+    "French_Guiana_nl": {
+        "nl": 194,
+        "fr": 556,
+        "en": 475
+    },
+    "Marouini_River_nl": {
+        "nl": 169,
+        "fr": 378,
+        "en": 376
+    },
+    "Tigri_Area_nl": {
+        "nl": 145,
+        "en": 239
+    },
+    "Courantyne_River_nl": {
+        "nl": 151,
+        "en": 238
+    },
+    "Ashmore_and_Cartier_Islands_id": {
+        "id": 279,
+        "en": 246
+    },
+    "Ambalat_id": {
+        "id": 309,
+        "ms": 118,
+        "en": 215
+    },
+    "Shatt_al-Arab_fa": {
+        "ar": 434,
+        "fa": 342,
+        "en": 467
+    },
+    "Abu_Musa_fa": {
+        "ar": 238,
+        "fa": 311,
+        "en": 409
+    },
+    "Greater_and_Lesser_Tunbs_fa": {
+        "ar": 191,
+        "fa": 261,
+        "en": 409
+    },
+    "Wakhan_Corridor_fa": {
+        "zht": 188,
+        "fa": 240,
+        "en": 189
+    },
+    "Bukit_Jeli_th": {
+        "th": 226,
+        "ms": 168,
+        "en": 305
+    },
+    "Doi_Lang_th": {
+        "th": 257,
+        "my": 230,
+        "en": 360
+    },
+    "Mekong_river_th": {
+        "th": 254,
+        "en": 368,
+        "lo": 122
+    },
+    "Preah_Vihear_Temple_th": {
+        "th": 298,
+        "km": 266,
+        "en": 412
+    },
+    "Khao_Phra_Wihan_th": {
+        "th": 259,
+        "km": 232,
+        "en": 385
+    },
+    "Three_Pagodas_Pass_th": {
+        "th": 246,
+        "my": 230,
+        "en": 366
+    },
+    "Bukit_Jeli_ms": {
+        "th": 226,
+        "ms": 168,
+        "en": 305
+    },
+    "Ambalat_ms": {
+        "id": 309,
+        "ms": 118,
+        "en": 215
+    },
+    "Pedra_Branca_ms": {
+        "ms": 217,
+        "en": 287
+    },
+    "Singapore_Strait_ms": {
+        "ms": 145,
+        "en": 219
+    },
+    "Point_20_ms": {
+        "ms": 189,
+        "en": 255
+    },
+    "Sabah_ms": {
+        "tl": 119,
+        "ms": 133,
+        "en": 294
+    },
+    "North_Borneo_ms": {
+        "tl": 114,
+        "ms": 98,
+        "en": 235
+    },
+    "James_Shoal_ms": {
+        "zhs": 370,
+        "zht": 370,
+        "ms": 146,
+        "en": 106
+    },
+    "Spratly_Islands_ms": {
+        "zhs": 548,
+        "en": 501,
+        "tl": 216,
+        "vi": 766,
+        "zht": 548,
+        "ms": 259
+    },
+    "Azad_Kashmir_hi": {
+        "ur": 129,
+        "hi": 142,
+        "en": 342
+    },
+    "Gilgit-Baltistan_hi": {
+        "ur": 128,
+        "hi": 145,
+        "zht": 285,
+        "en": 367
+    },
+    "Jammu_and_Kashmir_hi": {
+        "ur": 125,
+        "hi": 124,
+        "en": 335
+    },
+    "Ladakh_hi": {
+        "ur": 124,
+        "hi": 151,
+        "en": 387
+    },
+    "Junagadh_and_Manavadar_hi": {
+        "ur": 120,
+        "hi": 132,
+        "en": 301
+    },
+    "Kalapani_hi": {
+        "ne": 85,
+        "hi": 144,
+        "en": 237
+    },
+    "Susta_River_dispute_hi": {
+        "ne": 71,
+        "hi": 144,
+        "en": 210
+    },
+    "Antudanda_hi": {
+        "ne": 71,
+        "hi": 144,
+        "en": 206
+    },
+    "Siachen_Glacier_hi": {
+        "ur": 136,
+        "hi": 147,
+        "zht": 265,
+        "en": 308
+    },
+    "Saltoro_Ridge_hi": {
+        "ur": 121,
+        "hi": 125,
+        "en": 300
+    },
+    "Sir_Creek_hi": {
+        "ur": 118,
+        "hi": 126,
+        "en": 311
+    },
+    "Depsang_Plains_hi": {
+        "hi": 185,
+        "zhs": 336,
+        "zht": 336,
+        "en": 140
+    },
+    "Aksai_Chin_hi": {
+        "hi": 185,
+        "zhs": 341,
+        "zht": 341,
+        "en": 143
+    },
+    "Arunachal_Pradesh_hi": {
+        "hi": 211,
+        "zhs": 358,
+        "zht": 358,
+        "en": 183
+    },
+    "Demchok_sector_/_Parigas_region_hi": {
+        "zht": 338,
+        "hi": 177,
+        "zhs": 338,
+        "en": 130
+    },
+    "Chumar_hi": {
+        "hi": 179,
+        "zhs": 334,
+        "zht": 334,
+        "en": 124
+    },
+    "Gue_hi": {
+        "hi": 177,
+        "zhs": 333,
+        "zht": 333,
+        "en": 108
+    },
+    "Kaurik_hi": {
+        "hi": 177,
+        "zhs": 333,
+        "zht": 333,
+        "en": 107
+    },
+    "Shipki_La_hi": {
+        "hi": 182,
+        "zhs": 338,
+        "zht": 338,
+        "en": 111
+    },
+    "Tashigang_hi": {
+        "hi": 181,
+        "zhs": 333,
+        "zht": 333,
+        "en": 108
+    },
+    "Barahoti_hi": {
+        "hi": 177,
+        "zhs": 333,
+        "zht": 333,
+        "en": 149
+    },
+    "Lapthal_hi": {
+        "zht": 333,
+        "hi": 177,
+        "zhs": 333,
+        "en": 105
+    },
+    "Jadhang_hi": {
+        "hi": 180,
+        "zhs": 335,
+        "zht": 335,
+        "en": 110
+    },
+    "Nelang_hi": {
+        "hi": 180,
+        "zhs": 335,
+        "zht": 335,
+        "en": 117
+    },
+    "Pulam_Sumda_hi": {
+        "zht": 335,
+        "hi": 180,
+        "zhs": 335,
+        "en": 109
+    },
+    "Sang_hi": {
+        "hi": 180,
+        "zhs": 335,
+        "zht": 335,
+        "en": 110
+    },
+    "Shaksgam_Valley_hi": {
+        "zht": 340,
+        "hi": 180,
+        "zhs": 340,
+        "en": 111
+    },
+    "Trans-Karakoram_Tracts_hi": {
+        "hi": 181,
+        "zhs": 336,
+        "zht": 336,
+        "en": 127
+    },
+    "Azad_Kashmir_ur": {
+        "ur": 129,
+        "hi": 142,
+        "en": 342
+    },
+    "Gilgit-Baltistan_ur": {
+        "ur": 128,
+        "hi": 145,
+        "zht": 285,
+        "en": 367
+    },
+    "Jammu_and_Kashmir_ur": {
+        "ur": 125,
+        "hi": 124,
+        "en": 335
+    },
+    "Ladakh_ur": {
+        "ur": 124,
+        "hi": 151,
+        "en": 387
+    },
+    "Junagadh_and_Manavadar_ur": {
+        "ur": 120,
+        "hi": 132,
+        "en": 301
+    },
+    "Siachen_Glacier_ur": {
+        "ur": 136,
+        "hi": 147,
+        "zht": 265,
+        "en": 308
+    },
+    "Saltoro_Ridge_ur": {
+        "ur": 121,
+        "hi": 125,
+        "en": 300
+    },
+    "Sir_Creek_ur": {
+        "ur": 118,
+        "hi": 126,
+        "en": 311
+    },
+    "Gilgit-Baltistan_zht": {
+        "ur": 128,
+        "hi": 145,
+        "zht": 285,
+        "en": 367
+    },
+    "Siachen_Glacier_zht": {
+        "ur": 136,
+        "hi": 147,
+        "zht": 265,
+        "en": 308
+    },
+    "Abagaitu_Islet_zht": {
+        "zht": 321,
+        "ru": 772,
+        "zhs": 321,
+        "en": 158
+    },
+    "Depsang_Plains_zht": {
+        "hi": 185,
+        "zhs": 336,
+        "zht": 336,
+        "en": 140
+    },
+    "Aksai_Chin_zht": {
+        "hi": 185,
+        "zhs": 341,
+        "zht": 341,
+        "en": 143
+    },
+    "Arunachal_Pradesh_zht": {
+        "hi": 211,
+        "zhs": 358,
+        "zht": 358,
+        "en": 183
+    },
+    "B\u1ea1ch_Long_V\u0129_Island_zht": {
+        "vi": 219,
+        "zht": 214,
+        "en": 127
+    },
+    "Baekdu_Mountain_zht": {
+        "zhs": 565,
+        "ko": 731,
+        "zht": 565,
+        "en": 363
+    },
+    "Beyul_Khenpajong_zht": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Menchuma_Valley_zht": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 125
+    },
+    "Chagdzom_zht": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Bhutanese_exclaves_zht": {
+        "dz": 0,
+        "zhs": 295,
+        "zht": 295,
+        "en": 191
+    },
+    "Tibet_zht": {
+        "dz": 0,
+        "zhs": 305,
+        "zht": 305,
+        "en": 222
+    },
+    "Cherkip_Gompa_zht": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 125
+    },
+    "Dungmar_zht": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 125
+    },
+    "Gesur_zht": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Gezon_zht": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Itse_Gompa_zht": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 125
+    },
+    "Khochar_zht": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 125
+    },
+    "Nyanri_zht": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Ringung_zht": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Sanmar_zht": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Darchen_zht": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 134
+    },
+    "Doklam_zht": {
+        "zht": 287,
+        "dz": 0,
+        "zhs": 287,
+        "en": 183
+    },
+    "Zuthulphuk_zht": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 125
+    },
+    "Demchok_sector_/_Parigas_region_zht": {
+        "zht": 338,
+        "hi": 177,
+        "zhs": 338,
+        "en": 130
+    },
+    "Chumar_zht": {
+        "hi": 179,
+        "zhs": 334,
+        "zht": 334,
+        "en": 124
+    },
+    "Gue_zht": {
+        "hi": 177,
+        "zhs": 333,
+        "zht": 333,
+        "en": 108
+    },
+    "Kaurik_zht": {
+        "hi": 177,
+        "zhs": 333,
+        "zht": 333,
+        "en": 107
+    },
+    "Shipki_La_zht": {
+        "hi": 182,
+        "zhs": 338,
+        "zht": 338,
+        "en": 111
+    },
+    "Tashigang_zht": {
+        "hi": 181,
+        "zhs": 333,
+        "zht": 333,
+        "en": 108
+    },
+    "Barahoti_zht": {
+        "hi": 177,
+        "zhs": 333,
+        "zht": 333,
+        "en": 149
+    },
+    "Lapthal_zht": {
+        "zht": 333,
+        "hi": 177,
+        "zhs": 333,
+        "en": 105
+    },
+    "Jadhang_zht": {
+        "hi": 180,
+        "zhs": 335,
+        "zht": 335,
+        "en": 110
+    },
+    "Nelang_zht": {
+        "hi": 180,
+        "zhs": 335,
+        "zht": 335,
+        "en": 117
+    },
+    "Pulam_Sumda_zht": {
+        "zht": 335,
+        "hi": 180,
+        "zhs": 335,
+        "en": 109
+    },
+    "Sang_zht": {
+        "hi": 180,
+        "zhs": 335,
+        "zht": 335,
+        "en": 110
+    },
+    "James_Shoal_zht": {
+        "zhs": 370,
+        "zht": 370,
+        "ms": 146,
+        "en": 106
+    },
+    "Macclesfield_Bank_zht": {
+        "zht": 304,
+        "zhs": 304,
+        "tl": 147,
+        "en": 133
+    },
+    "Mainland_China_zht": {
+        "zhs": 254,
+        "zht": 254,
+        "en": 22
+    },
+    "Hainan_zht": {
+        "zht": 338,
+        "zhs": 338,
+        "en": 162
+    },
+    "Heixiazi_zht": {
+        "ru": 785,
+        "zhs": 346,
+        "zht": 346,
+        "en": 167
+    },
+    "Bolshoy_Ussuriysky_Island_zht": {
+        "ru": 785,
+        "zhs": 346,
+        "zht": 346,
+        "en": 167
+    },
+    "Hong_Kong_zht": {
+        "zhs": 502,
+        "zht": 502,
+        "en": 90
+    },
+    "Jiangxinpo_zht": {
+        "my": 137,
+        "zht": 216,
+        "en": 181
+    },
+    "Khan_Tengri_zht": {
+        "zht": 288,
+        "zhs": 288,
+        "ky": 223,
+        "en": 159
+    },
+    "Boz-Tik_zht": {
+        "zht": 285,
+        "zhs": 285,
+        "ky": 219,
+        "en": 144
+    },
+    "Bedel_pass_zht": {
+        "zht": 291,
+        "zhs": 291,
+        "ky": 222,
+        "en": 144
+    },
+    "Uzongu-Kuush_zht": {
+        "zhs": 285,
+        "zht": 285,
+        "ky": 219,
+        "en": 144
+    },
+    "Erkeshtam_zht": {
+        "zhs": 295,
+        "zht": 295,
+        "ky": 219,
+        "en": 161
+    },
+    "Kula_Kangri_zht": {
+        "dz": 0,
+        "zhs": 284,
+        "zht": 284,
+        "en": 130
+    },
+    "Haa_District_zht": {
+        "zht": 287,
+        "dz": 0,
+        "zhs": 287,
+        "en": 151
+    },
+    "Kutuzov_Island_zht": {
+        "ru": 485,
+        "zht": 187,
+        "en": 154
+    },
+    "Macau_zht": {
+        "zhs": 374,
+        "zht": 374,
+        "en": 71
+    },
+    "Namwan_Assigned_Tract_zht": {
+        "my": 137,
+        "zht": 197,
+        "en": 184
+    },
+    "Outer_Mongolia_zht": {
+        "zht": 241,
+        "mn": 35,
+        "en": 140
+    },
+    "Pamir_Mountains_zht": {
+        "tg": 178,
+        "zhs": 296,
+        "zht": 296,
+        "en": 137
+    },
+    "Paracel_Islands_zht": {
+        "vi": 446,
+        "zhs": 339,
+        "zht": 339,
+        "en": 180
+    },
+    "Parangcho_zht": {
+        "zhs": 370,
+        "ko": 439,
+        "zht": 370,
+        "en": 188
+    },
+    "Rasu_zht": {
+        "ne": 67,
+        "zht": 157,
+        "en": 107
+    },
+    "Kimathanka_zht": {
+        "ne": 70,
+        "zht": 157,
+        "en": 113
+    },
+    "Nara_Pass_zht": {
+        "ne": 67,
+        "zht": 157,
+        "en": 107
+    },
+    "Tingribode_zht": {
+        "ne": 67,
+        "zht": 157,
+        "en": 107
+    },
+    "Mount_Everest_zht": {
+        "ne": 73,
+        "zht": 210,
+        "en": 308
+    },
+    "Scarborough_Shoal_zht": {
+        "tl": 149,
+        "zhs": 311,
+        "zht": 311,
+        "en": 168
+    },
+    "Sakteng_Wildlife_Sanctuary_zht": {
+        "zht": 284,
+        "dz": 0,
+        "zhs": 284,
+        "en": 134
+    },
+    "Senkaku_Islands_zht": {
+        "ja": 394,
+        "zhs": 401,
+        "zht": 401,
+        "en": 160
+    },
+    "Shaksgam_Valley_zht": {
+        "zht": 340,
+        "hi": 180,
+        "zhs": 340,
+        "en": 111
+    },
+    "Sixty-Four_Villages_East_of_the_River_zht": {
+        "ru": 490,
+        "zht": 192,
+        "en": 161
+    },
+    "Spratly_Islands_zht": {
+        "zhs": 548,
+        "en": 501,
+        "tl": 216,
+        "vi": 766,
+        "zht": 548,
+        "ms": 259
+    },
+    "Taiwan_zht": {
+        "zht": 235,
+        "zhs": 235,
+        "en": 185
+    },
+    "Penghu_zht": {
+        "zht": 296,
+        "zhs": 296,
+        "en": 53
+    },
+    "Kinmen_zht": {
+        "zhs": 328,
+        "zht": 328,
+        "en": 75
+    },
+    "Matsu_zht": {
+        "zhs": 276,
+        "zht": 276,
+        "en": 67
+    },
+    "Pratas_Island_zht": {
+        "zht": 242,
+        "zhs": 242,
+        "en": 55
+    },
+    "Vereker_Banks_zht": {
+        "zht": 235,
+        "zhs": 235,
+        "en": 1
+    },
+    "Trans-Karakoram_Tracts_zht": {
+        "hi": 181,
+        "zhs": 336,
+        "zht": 336,
+        "en": 127
+    },
+    "Tannu_Uriankhai_zht": {
+        "ru": 482,
+        "zht": 220,
+        "en": 178
+    },
+    "Tumen_River_zht": {
+        "zhs": 544,
+        "ko": 697,
+        "zht": 544,
+        "en": 335
+    },
+    "Wakhan_Corridor_zht": {
+        "zht": 188,
+        "fa": 240,
+        "en": 189
+    },
+    "Yalu_River_zht": {
+        "zhs": 543,
+        "ko": 701,
+        "zht": 543,
+        "en": 342
+    },
+    "David_Gareja_monastery_complex_ka": {
+        "az": 186,
+        "ka": 255,
+        "en": 318
+    },
+    "David_Gareja_monastery_complex_az": {
+        "az": 186,
+        "ka": 255,
+        "en": 318
+    },
+    "Artsvashen_az": {
+        "az": 182,
+        "hy": 460,
+        "en": 332
+    },
+    "Gegharkunik_province_az": {
+        "az": 181,
+        "hy": 463,
+        "en": 372
+    },
+    "Karki_az": {
+        "az": 176,
+        "hy": 466,
+        "en": 327
+    },
+    "Nakhichevan_Autonomous_Republic_az": {
+        "az": 356,
+        "hy": 463,
+        "en": 395
+    },
+    "Yukhari_Askipara_az": {
+        "az": 178,
+        "hy": 470,
+        "en": 324
+    },
+    "Barkhudarli_az": {
+        "az": 178,
+        "hy": 459,
+        "en": 318
+    },
+    "Qazakh_Rayon_az": {
+        "az": 264,
+        "hy": 458,
+        "en": 332
+    },
+    "Yaradullu_az": {
+        "az": 170,
+        "hy": 452,
+        "en": 320
+    },
+    "Dadivank_az": {
+        "az": 222,
+        "hy": 482,
+        "en": 332
+    },
+    "Lachin_corridor_az": {
+        "az": 184,
+        "hy": 461,
+        "en": 328
+    },
+    "Doi_Lang_my": {
+        "th": 257,
+        "my": 230,
+        "en": 360
+    },
+    "Naf_River_my": {
+        "bn": 139,
+        "my": 115,
+        "en": 329
+    },
+    "Three_Pagodas_Pass_my": {
+        "th": 246,
+        "my": 230,
+        "en": 366
+    },
+    "Jiangxinpo_my": {
+        "my": 137,
+        "zht": 216,
+        "en": 181
+    },
+    "Namwan_Assigned_Tract_my": {
+        "my": 137,
+        "zht": 197,
+        "en": 184
+    },
+    "Fergana_Valley_ky": {
+        "ky": 213,
+        "tg": 179,
+        "uz": 171,
+        "en": 469
+    },
+    "Isfara_Valley_ky": {
+        "tg": 186,
+        "ky": 170,
+        "en": 251
+    },
+    "Ungar-Too_ky": {
+        "ky": 194,
+        "uz": 128,
+        "en": 300
+    },
+    "Khan_Tengri_ky": {
+        "zht": 288,
+        "zhs": 288,
+        "ky": 223,
+        "en": 159
+    },
+    "Boz-Tik_ky": {
+        "zht": 285,
+        "zhs": 285,
+        "ky": 219,
+        "en": 144
+    },
+    "Bedel_pass_ky": {
+        "zht": 291,
+        "zhs": 291,
+        "ky": 222,
+        "en": 144
+    },
+    "Uzongu-Kuush_ky": {
+        "zhs": 285,
+        "zht": 285,
+        "ky": 219,
+        "en": 144
+    },
+    "Erkeshtam_ky": {
+        "zhs": 295,
+        "zht": 295,
+        "ky": 219,
+        "en": 161
+    },
+    "Fergana_Valley_tg": {
+        "ky": 213,
+        "tg": 179,
+        "uz": 171,
+        "en": 469
+    },
+    "Isfara_Valley_tg": {
+        "tg": 186,
+        "ky": 170,
+        "en": 251
+    },
+    "Pamir_Mountains_tg": {
+        "tg": 178,
+        "zhs": 296,
+        "zht": 296,
+        "en": 137
+    },
+    "Fergana_Valley_uz": {
+        "ky": 213,
+        "tg": 179,
+        "uz": 171,
+        "en": 469
+    },
+    "Ungar-Too_uz": {
+        "ky": 194,
+        "uz": 128,
+        "en": 300
+    },
+    "Vozrozhdeniya_Island_uz": {
+        "ru": 465,
+        "uz": 123,
+        "en": 379
+    },
+    "Golan_Heights_iw": {
+        "ar": 191,
+        "iw": 335,
+        "en": 454
+    },
+    "Shebaa_Farms_iw": {
+        "ar": 214,
+        "iw": 245,
+        "en": 353
+    },
+    "Green_Line_iw": {
+        "ar": 190,
+        "iw": 275,
+        "en": 244
+    },
+    "West_Bank_iw": {
+        "ar": 210,
+        "iw": 296,
+        "en": 333
+    },
+    "East_Jerusalem_iw": {
+        "ar": 182,
+        "iw": 277,
+        "en": 306
+    },
+    "Gaza_Strip_iw": {
+        "ar": 252,
+        "iw": 297,
+        "en": 397
+    },
+    "Hatay_Province_tr": {
+        "ar": 179,
+        "tr": 392,
+        "en": 427
+    },
+    "Imia/Kardak_tr": {
+        "tr": 202,
+        "el": 270,
+        "en": 485
+    },
+    "Kalapani_ne": {
+        "ne": 85,
+        "hi": 144,
+        "en": 237
+    },
+    "Susta_River_dispute_ne": {
+        "ne": 71,
+        "hi": 144,
+        "en": 210
+    },
+    "Antudanda_ne": {
+        "ne": 71,
+        "hi": 144,
+        "en": 206
+    },
+    "Rasu_ne": {
+        "ne": 67,
+        "zht": 157,
+        "en": 107
+    },
+    "Kimathanka_ne": {
+        "ne": 70,
+        "zht": 157,
+        "en": 113
+    },
+    "Nara_Pass_ne": {
+        "ne": 67,
+        "zht": 157,
+        "en": 107
+    },
+    "Tingribode_ne": {
+        "ne": 67,
+        "zht": 157,
+        "en": 107
+    },
+    "Mount_Everest_ne": {
+        "ne": 73,
+        "zht": 210,
+        "en": 308
+    },
+    "Artsvashen_hy": {
+        "az": 182,
+        "hy": 460,
+        "en": 332
+    },
+    "Gegharkunik_province_hy": {
+        "az": 181,
+        "hy": 463,
+        "en": 372
+    },
+    "Karki_hy": {
+        "az": 176,
+        "hy": 466,
+        "en": 327
+    },
+    "Nakhichevan_Autonomous_Republic_hy": {
+        "az": 356,
+        "hy": 463,
+        "en": 395
+    },
+    "Yukhari_Askipara_hy": {
+        "az": 178,
+        "hy": 470,
+        "en": 324
+    },
+    "Barkhudarli_hy": {
+        "az": 178,
+        "hy": 459,
+        "en": 318
+    },
+    "Qazakh_Rayon_hy": {
+        "az": 264,
+        "hy": 458,
+        "en": 332
+    },
+    "Yaradullu_hy": {
+        "az": 170,
+        "hy": 452,
+        "en": 320
+    },
+    "Dadivank_hy": {
+        "az": 222,
+        "hy": 482,
+        "en": 332
+    },
+    "Lachin_corridor_hy": {
+        "az": 184,
+        "hy": 461,
+        "en": 328
+    },
+    "Korean_Peninsula_ko": {
+        "ko": 490,
+        "en": 320
+    },
+    "Dokdo/Takeshima_ko": {
+        "ja": 638,
+        "ko": 627,
+        "en": 443
+    },
+    "Noktundo_ko": {
+        "ru": 527,
+        "ko": 299,
+        "en": 337
+    },
+    "Baekdu_Mountain_ko": {
+        "zhs": 565,
+        "ko": 731,
+        "zht": 565,
+        "en": 363
+    },
+    "Parangcho_ko": {
+        "zhs": 370,
+        "ko": 439,
+        "zht": 370,
+        "en": 188
+    },
+    "Tumen_River_ko": {
+        "zhs": 544,
+        "ko": 697,
+        "zht": 544,
+        "en": 335
+    },
+    "Yalu_River_ko": {
+        "zhs": 543,
+        "ko": 701,
+        "zht": 543,
+        "en": 342
+    },
+    "South_Kuril/Chishima_Islands_ja": {
+        "ja": 274,
+        "ru": 575,
+        "en": 289
+    },
+    "Kuril/Chishima_Islands_ja": {
+        "ja": 274,
+        "ru": 575,
+        "en": 289
+    },
+    "Sakhalin_ja": {
+        "ja": 255,
+        "ru": 602,
+        "en": 326
+    },
+    "Dokdo/Takeshima_ja": {
+        "ja": 638,
+        "ko": 627,
+        "en": 443
+    },
+    "Senkaku_Islands_ja": {
+        "ja": 394,
+        "zhs": 401,
+        "zht": 401,
+        "en": 160
+    },
+    "South_Kuril/Chishima_Islands_ru": {
+        "ja": 274,
+        "ru": 575,
+        "en": 289
+    },
+    "Kuril/Chishima_Islands_ru": {
+        "ja": 274,
+        "ru": 575,
+        "en": 289
+    },
+    "Sakhalin_ru": {
+        "ja": 255,
+        "ru": 602,
+        "en": 326
+    },
+    "Noktundo_ru": {
+        "ru": 527,
+        "ko": 299,
+        "en": 337
+    },
+    "Ukatnyy_ru": {
+        "ru": 696,
+        "en": 370
+    },
+    "Zhestky_ru": {
+        "ru": 696,
+        "en": 370
+    },
+    "Malyy_Zhemchuzhnyy_ru": {
+        "ru": 696,
+        "en": 370
+    },
+    "Vozrozhdeniya_Island_ru": {
+        "ru": 465,
+        "uz": 123,
+        "en": 379
+    },
+    "Crimea_ru": {
+        "ru": 797,
+        "uk": 540,
+        "en": 426
+    },
+    "Sevastopol_ru": {
+        "ru": 924,
+        "uk": 582,
+        "en": 395
+    },
+    "Donetsk_Oblast_ru": {
+        "ru": 792,
+        "uk": 621,
+        "en": 363
+    },
+    "Kherson_Oblast_ru": {
+        "ru": 796,
+        "uk": 503,
+        "en": 354
+    },
+    "Luhansk_Oblast_ru": {
+        "ru": 784,
+        "uk": 580,
+        "en": 383
+    },
+    "Zaporizhzhia_Oblast_ru": {
+        "ru": 826,
+        "uk": 694,
+        "en": 366
+    },
+    "Kinburn_Peninsula_ru": {
+        "ru": 749,
+        "uk": 505,
+        "en": 336
+    },
+    "Mykolaiv_Oblast_ru": {
+        "ru": 793,
+        "uk": 525,
+        "en": 358
+    },
+    "Snihurivka_ru": {
+        "ru": 759,
+        "uk": 511,
+        "en": 338
+    },
+    "Abagaitu_Islet_ru": {
+        "zht": 321,
+        "ru": 772,
+        "zhs": 321,
+        "en": 158
+    },
+    "Heixiazi_ru": {
+        "ru": 785,
+        "zhs": 346,
+        "zht": 346,
+        "en": 167
+    },
+    "Bolshoy_Ussuriysky_Island_ru": {
+        "ru": 785,
+        "zhs": 346,
+        "zht": 346,
+        "en": 167
+    },
+    "Kutuzov_Island_ru": {
+        "ru": 485,
+        "zht": 187,
+        "en": 154
+    },
+    "Sixty-Four_Villages_East_of_the_River_ru": {
+        "ru": 490,
+        "zht": 192,
+        "en": 161
+    },
+    "Tannu_Uriankhai_ru": {
+        "ru": 482,
+        "zht": 220,
+        "en": 178
+    },
+    "Mekong_river_lo": {
+        "th": 254,
+        "en": 368,
+        "lo": 122
+    },
+    "O'Tangav_lo": {
+        "en": 286,
+        "km": 180,
+        "lo": 91
+    },
+    "Stung_Treng_Province_lo": {
+        "en": 303,
+        "km": 186,
+        "lo": 91
+    },
+    "Naf_River_bn": {
+        "bn": 139,
+        "my": 115,
+        "en": 329
+    },
+    "O'Tangav_km": {
+        "en": 286,
+        "km": 180,
+        "lo": 91
+    },
+    "Stung_Treng_Province_km": {
+        "en": 303,
+        "km": 186,
+        "lo": 91
+    },
+    "Preah_Vihear_Temple_km": {
+        "th": 298,
+        "km": 266,
+        "en": 412
+    },
+    "Khao_Phra_Wihan_km": {
+        "th": 259,
+        "km": 232,
+        "en": 385
+    },
+    "Sabah_tl": {
+        "tl": 119,
+        "ms": 133,
+        "en": 294
+    },
+    "North_Borneo_tl": {
+        "tl": 114,
+        "ms": 98,
+        "en": 235
+    },
+    "Macclesfield_Bank_tl": {
+        "zht": 304,
+        "zhs": 304,
+        "tl": 147,
+        "en": 133
+    },
+    "Scarborough_Shoal_tl": {
+        "tl": 149,
+        "zhs": 311,
+        "zht": 311,
+        "en": 168
+    },
+    "Spratly_Islands_tl": {
+        "zhs": 548,
+        "en": 501,
+        "tl": 216,
+        "vi": 766,
+        "zht": 548,
+        "ms": 259
+    },
+    "Crimea_uk": {
+        "ru": 797,
+        "uk": 540,
+        "en": 426
+    },
+    "Sevastopol_uk": {
+        "ru": 924,
+        "uk": 582,
+        "en": 395
+    },
+    "Donetsk_Oblast_uk": {
+        "ru": 792,
+        "uk": 621,
+        "en": 363
+    },
+    "Kherson_Oblast_uk": {
+        "ru": 796,
+        "uk": 503,
+        "en": 354
+    },
+    "Luhansk_Oblast_uk": {
+        "ru": 784,
+        "uk": 580,
+        "en": 383
+    },
+    "Zaporizhzhia_Oblast_uk": {
+        "ru": 826,
+        "uk": 694,
+        "en": 366
+    },
+    "Kinburn_Peninsula_uk": {
+        "ru": 749,
+        "uk": 505,
+        "en": 336
+    },
+    "Mykolaiv_Oblast_uk": {
+        "ru": 793,
+        "uk": 525,
+        "en": 358
+    },
+    "Snihurivka_uk": {
+        "ru": 759,
+        "uk": 511,
+        "en": 338
+    },
+    "Imia/Kardak_el": {
+        "tr": 202,
+        "el": 270,
+        "en": 485
+    },
+    "Mont_Blanc_summit_dispute_it": {
+        "fr": 528,
+        "it": 581,
+        "en": 516
+    },
+    "Rockall_da": {
+        "da": 383,
+        "is": 198,
+        "en": 725
+    },
+    "Rockall_is": {
+        "da": 383,
+        "is": 198,
+        "en": 725
+    },
+    "Island_of_\u0160arengrad_sr": {
+        "hr": 262,
+        "sr": 366,
+        "en": 340
+    },
+    "Island_of_Vukovar_sr": {
+        "hr": 259,
+        "sr": 370,
+        "en": 338
+    },
+    "Drina_river_sr": {
+        "bs": 245,
+        "sr": 442,
+        "en": 372
+    },
+    "Prevlaka_sr": {
+        "hr": 263,
+        "sr": 221,
+        "en": 263
+    },
+    "Sastavci_sr": {
+        "bs": 227,
+        "sr": 408,
+        "en": 375
+    },
+    "Kosovo_sr": {
+        "sq": 155,
+        "sr": 320,
+        "en": 343
+    },
+    "Island_of_\u0160arengrad_hr": {
+        "hr": 262,
+        "sr": 366,
+        "en": 340
+    },
+    "Island_of_Vukovar_hr": {
+        "hr": 259,
+        "sr": 370,
+        "en": 338
+    },
+    "Sveta_Gera_hr": {
+        "hr": 187,
+        "sl": 174,
+        "en": 331
+    },
+    "Prevlaka_hr": {
+        "hr": 263,
+        "sr": 221,
+        "en": 263
+    },
+    "Dragonja_River_hr": {
+        "hr": 188,
+        "sl": 176,
+        "en": 335
+    },
+    "Sveta_Gera_sl": {
+        "hr": 187,
+        "sl": 174,
+        "en": 331
+    },
+    "Dragonja_River_sl": {
+        "hr": 188,
+        "sl": 176,
+        "en": 335
+    },
+    "Drina_river_bs": {
+        "bs": 245,
+        "sr": 442,
+        "en": 372
+    },
+    "Sastavci_bs": {
+        "bs": 227,
+        "sr": 408,
+        "en": 375
+    },
+    "Abagaitu_Islet_zhs": {
+        "zht": 321,
+        "ru": 772,
+        "zhs": 321,
+        "en": 158
+    },
+    "Depsang_Plains_zhs": {
+        "hi": 185,
+        "zhs": 336,
+        "zht": 336,
+        "en": 140
+    },
+    "Aksai_Chin_zhs": {
+        "hi": 185,
+        "zhs": 341,
+        "zht": 341,
+        "en": 143
+    },
+    "Arunachal_Pradesh_zhs": {
+        "hi": 211,
+        "zhs": 358,
+        "zht": 358,
+        "en": 183
+    },
+    "Baekdu_Mountain_zhs": {
+        "zhs": 565,
+        "ko": 731,
+        "zht": 565,
+        "en": 363
+    },
+    "Beyul_Khenpajong_zhs": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Menchuma_Valley_zhs": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 125
+    },
+    "Chagdzom_zhs": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Bhutanese_exclaves_zhs": {
+        "dz": 0,
+        "zhs": 295,
+        "zht": 295,
+        "en": 191
+    },
+    "Tibet_zhs": {
+        "dz": 0,
+        "zhs": 305,
+        "zht": 305,
+        "en": 222
+    },
+    "Cherkip_Gompa_zhs": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 125
+    },
+    "Dungmar_zhs": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 125
+    },
+    "Gesur_zhs": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Gezon_zhs": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Itse_Gompa_zhs": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 125
+    },
+    "Khochar_zhs": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 125
+    },
+    "Nyanri_zhs": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Ringung_zhs": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Sanmar_zhs": {
+        "dz": 0,
+        "zhs": 280,
+        "zht": 280,
+        "en": 125
+    },
+    "Darchen_zhs": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 134
+    },
+    "Doklam_zhs": {
+        "zht": 287,
+        "dz": 0,
+        "zhs": 287,
+        "en": 183
+    },
+    "Zuthulphuk_zhs": {
+        "zht": 280,
+        "dz": 0,
+        "zhs": 280,
+        "en": 125
+    },
+    "Demchok_sector_/_Parigas_region_zhs": {
+        "zht": 338,
+        "hi": 177,
+        "zhs": 338,
+        "en": 130
+    },
+    "Chumar_zhs": {
+        "hi": 179,
+        "zhs": 334,
+        "zht": 334,
+        "en": 124
+    },
+    "Gue_zhs": {
+        "hi": 177,
+        "zhs": 333,
+        "zht": 333,
+        "en": 108
+    },
+    "Kaurik_zhs": {
+        "hi": 177,
+        "zhs": 333,
+        "zht": 333,
+        "en": 107
+    },
+    "Shipki_La_zhs": {
+        "hi": 182,
+        "zhs": 338,
+        "zht": 338,
+        "en": 111
+    },
+    "Tashigang_zhs": {
+        "hi": 181,
+        "zhs": 333,
+        "zht": 333,
+        "en": 108
+    },
+    "Barahoti_zhs": {
+        "hi": 177,
+        "zhs": 333,
+        "zht": 333,
+        "en": 149
+    },
+    "Lapthal_zhs": {
+        "zht": 333,
+        "hi": 177,
+        "zhs": 333,
+        "en": 105
+    },
+    "Jadhang_zhs": {
+        "hi": 180,
+        "zhs": 335,
+        "zht": 335,
+        "en": 110
+    },
+    "Nelang_zhs": {
+        "hi": 180,
+        "zhs": 335,
+        "zht": 335,
+        "en": 117
+    },
+    "Pulam_Sumda_zhs": {
+        "zht": 335,
+        "hi": 180,
+        "zhs": 335,
+        "en": 109
+    },
+    "Sang_zhs": {
+        "hi": 180,
+        "zhs": 335,
+        "zht": 335,
+        "en": 110
+    },
+    "James_Shoal_zhs": {
+        "zhs": 370,
+        "zht": 370,
+        "ms": 146,
+        "en": 106
+    },
+    "Macclesfield_Bank_zhs": {
+        "zht": 304,
+        "zhs": 304,
+        "tl": 147,
+        "en": 133
+    },
+    "Mainland_China_zhs": {
+        "zhs": 254,
+        "zht": 254,
+        "en": 22
+    },
+    "Hainan_zhs": {
+        "zht": 338,
+        "zhs": 338,
+        "en": 162
+    },
+    "Heixiazi_zhs": {
+        "ru": 785,
+        "zhs": 346,
+        "zht": 346,
+        "en": 167
+    },
+    "Bolshoy_Ussuriysky_Island_zhs": {
+        "ru": 785,
+        "zhs": 346,
+        "zht": 346,
+        "en": 167
+    },
+    "Hong_Kong_zhs": {
+        "zhs": 502,
+        "zht": 502,
+        "en": 90
+    },
+    "Khan_Tengri_zhs": {
+        "zht": 288,
+        "zhs": 288,
+        "ky": 223,
+        "en": 159
+    },
+    "Boz-Tik_zhs": {
+        "zht": 285,
+        "zhs": 285,
+        "ky": 219,
+        "en": 144
+    },
+    "Bedel_pass_zhs": {
+        "zht": 291,
+        "zhs": 291,
+        "ky": 222,
+        "en": 144
+    },
+    "Uzongu-Kuush_zhs": {
+        "zhs": 285,
+        "zht": 285,
+        "ky": 219,
+        "en": 144
+    },
+    "Erkeshtam_zhs": {
+        "zhs": 295,
+        "zht": 295,
+        "ky": 219,
+        "en": 161
+    },
+    "Kula_Kangri_zhs": {
+        "dz": 0,
+        "zhs": 284,
+        "zht": 284,
+        "en": 130
+    },
+    "Haa_District_zhs": {
+        "zht": 287,
+        "dz": 0,
+        "zhs": 287,
+        "en": 151
+    },
+    "Macau_zhs": {
+        "zhs": 374,
+        "zht": 374,
+        "en": 71
+    },
+    "Pamir_Mountains_zhs": {
+        "tg": 178,
+        "zhs": 296,
+        "zht": 296,
+        "en": 137
+    },
+    "Paracel_Islands_zhs": {
+        "vi": 446,
+        "zhs": 339,
+        "zht": 339,
+        "en": 180
+    },
+    "Parangcho_zhs": {
+        "zhs": 370,
+        "ko": 439,
+        "zht": 370,
+        "en": 188
+    },
+    "Scarborough_Shoal_zhs": {
+        "tl": 149,
+        "zhs": 311,
+        "zht": 311,
+        "en": 168
+    },
+    "Sakteng_Wildlife_Sanctuary_zhs": {
+        "zht": 284,
+        "dz": 0,
+        "zhs": 284,
+        "en": 134
+    },
+    "Senkaku_Islands_zhs": {
+        "ja": 394,
+        "zhs": 401,
+        "zht": 401,
+        "en": 160
+    },
+    "Shaksgam_Valley_zhs": {
+        "zht": 340,
+        "hi": 180,
+        "zhs": 340,
+        "en": 111
+    },
+    "Spratly_Islands_zhs": {
+        "zhs": 548,
+        "en": 501,
+        "tl": 216,
+        "vi": 766,
+        "zht": 548,
+        "ms": 259
+    },
+    "Taiwan_zhs": {
+        "zht": 235,
+        "zhs": 235,
+        "en": 185
+    },
+    "Penghu_zhs": {
+        "zht": 296,
+        "zhs": 296,
+        "en": 53
+    },
+    "Kinmen_zhs": {
+        "zhs": 328,
+        "zht": 328,
+        "en": 75
+    },
+    "Matsu_zhs": {
+        "zhs": 276,
+        "zht": 276,
+        "en": 67
+    },
+    "Pratas_Island_zhs": {
+        "zht": 242,
+        "zhs": 242,
+        "en": 55
+    },
+    "Vereker_Banks_zhs": {
+        "zht": 235,
+        "zhs": 235,
+        "en": 1
+    },
+    "Trans-Karakoram_Tracts_zhs": {
+        "hi": 181,
+        "zhs": 336,
+        "zht": 336,
+        "en": 127
+    },
+    "Tumen_River_zhs": {
+        "zhs": 544,
+        "ko": 697,
+        "zht": 544,
+        "en": 335
+    },
+    "Yalu_River_zhs": {
+        "zhs": 543,
+        "ko": 701,
+        "zht": 543,
+        "en": 342
+    },
+    "B\u1ea1ch_Long_V\u0129_Island_vi": {
+        "vi": 219,
+        "zht": 214,
+        "en": 127
+    },
+    "Paracel_Islands_vi": {
+        "vi": 446,
+        "zhs": 339,
+        "zht": 339,
+        "en": 180
+    },
+    "Spratly_Islands_vi": {
+        "zhs": 548,
+        "en": 501,
+        "tl": 216,
+        "vi": 766,
+        "zht": 548,
+        "ms": 259
+    },
+    "Kosovo_sq": {
+        "sq": 155,
+        "sr": 320,
+        "en": 343
+    },
+    "Outer_Mongolia_mn": {
+        "zht": 241,
+        "mn": 35,
+        "en": 140
+    }
+}
